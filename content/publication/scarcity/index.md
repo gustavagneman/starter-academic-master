@@ -1,9 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Scarcity"
+title: "Does Scarcity Reduce Cooperation? Experimental Evidence from Rural Tanzania."
 authors: [Gustav Agneman, Paolo Falco, Exaud Joel, Onesmo Seljio]
-date: 2020-11-04T18:25:05+01:00
+date: 2020-10-21
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,8 +16,8 @@ publishDate: 2020-11-04T18:25:05+01:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Does Scarcity Reduce Cooperation? Experimental Evidence from Rural Tanzania."
-publication_short: "scarcity"
+publication: "DERG Working Paper Series."
+publication_short: ""
 
 abstract: "Cooperation is essential to reap efficiency gains from specialization, not least in poor communities where economic transactions are often informal. Yet, cooperation might be more difficult to sustain under scarcity, since defecting from a cooperative equilibrium can yield safe, short-run benefits. In this study, we investigate how scarcity affects cooperation by leveraging exogenous variation in economic conditions induced by the Msimu harvest in rural Tanzania. We document significant changes in food consumption between the pre- and post-harvest period, and show that lean season scarcity reduces socially efficient but personally risky investment in a framed investment game. This can contribute to what is commonly referred to as a behavioral poverty trap."
 
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://www.econ.ku.dk/derg/wps/04-2020.pdf
 url_code:
 url_dataset:
 url_poster:
@@ -50,7 +50,7 @@ url_video:
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: ""
+  focal_point: "Smart"
   preview_only: false
 
 # Associated Projects (optional).
