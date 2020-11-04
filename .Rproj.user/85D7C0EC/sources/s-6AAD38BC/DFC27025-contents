@@ -1,0 +1,18 @@
+---
+title: "web code"
+author: "Gustav Agneman"
+date: "November 4, 2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+```{r cars}
+library("shiny", "miniUI")
+blogdown:::serve_site()
+```
+

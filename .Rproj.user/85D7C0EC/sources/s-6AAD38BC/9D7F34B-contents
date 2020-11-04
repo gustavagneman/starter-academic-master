@@ -1,0 +1,3 @@
+libraries("shiny", "miniUI")
+
+blogdown:::serve_site()
