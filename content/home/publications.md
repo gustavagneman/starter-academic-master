@@ -68,7 +68,6 @@ subtitle = ""
 +++
 
 
-
-#{{% callout note %}}
-#[filter papers](./publication/).
-#{{% /callout %}}
+# {{% callout note %}}
+# [Filter papers](./publication/).
+# {{% /callout %}}
