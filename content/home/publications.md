@@ -25,10 +25,10 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = "wp"
-    category = "SSRN"
-    publication_type = "Working Paper"
-    author = "Gustav Agneman"
+    tag = ""
+    category = ""
+    publication_type = ""
+    author = ""
     exclude_featured = false
   
 [design]
@@ -67,7 +67,8 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% callout note %}}
 
-[filter papers](./publication/).
-{{% /callout %}}
+
+#{{% callout note %}}
+#[filter papers](./publication/).
+#{{% /callout %}}
