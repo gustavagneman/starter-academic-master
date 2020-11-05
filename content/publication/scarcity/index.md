@@ -31,8 +31,8 @@ featured: true
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 # links:
-# - name: Follow
-#   url: https://twitter.com
+ - name: WP Series
+   url: https://www.econ.ku.dk/derg/wps/04-2020.pdf
 #   icon_pack: fab
 #   icon: twitter
 
