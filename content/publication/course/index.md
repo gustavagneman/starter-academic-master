@@ -22,7 +22,7 @@ publication_short: ""
 abstract: "This is a test course"
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "jada jada"
 
 tags: []
 categories: []
