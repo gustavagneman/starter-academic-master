@@ -19,10 +19,10 @@ publication_types: ["5"]
 publication: ""
 publication_short: ""
 
-abstract: ""
+abstract: "sSA"
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "jada jada"
 
 tags: []
 categories: []
