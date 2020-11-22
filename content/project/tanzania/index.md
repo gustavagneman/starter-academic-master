@@ -9,7 +9,7 @@ categories: []
 date: 2020-11-22T17:42:25+01:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.econ.ku.dk/derg/current-projects/tanzania---growth-and-development-research-project-gdrp/"
+external_link: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -29,7 +29,7 @@ image:
 
 url_code: ""
 url_pdf: "https://www.econ.ku.dk/derg/wps/04-2020.pdf"
-url_slides: ""
+url_slides: "https://www.econ.ku.dk/derg/current-projects/tanzania---growth-and-development-research-project-gdrp/"
 url_video: ""
 
 # Slides (optional).
