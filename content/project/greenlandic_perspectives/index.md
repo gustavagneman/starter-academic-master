@@ -22,7 +22,7 @@ image:
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
  links: 
- - name: Facebook Page
+ - name: "Facebook Page"
    url: "https://www.facebook.com/greenlandicperspectives"
    icon_pack: fab
    icon: facebook
