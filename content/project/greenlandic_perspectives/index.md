@@ -21,11 +21,11 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
+ links:
+ - name: Follow
+   url: https://www.facebook.com/greenlandicperspectives
+   icon_pack: fab
+   icon: facebook
 
 url_code: "https://uk.uni.gl/news/2018/october/greenlandic-perspectives-survey.aspx"
 url_pdf: ""
