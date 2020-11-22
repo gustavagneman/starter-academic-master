@@ -2,14 +2,14 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Greenlandic Perspectives Survey"
-summary: "A survey project intended to map the experiences of Greenlanders in relation to the political, economic and climatic changes that the people are experiencing."
+summary: "A survey project mapping the beliefs and experiences of Greenlanders in relation to the political, economic and climatic changes that the country is undergoing."
 authors: []
 tags: []
 categories: []
 date: 2020-11-22T17:17:13+01:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.youtube.com/watch?v=SP_cKvR2Amw"
+external_link: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -27,7 +27,7 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: ""
+url_code: "https://uk.uni.gl/news/2018/october/greenlandic-perspectives-survey.aspx"
 url_pdf: ""
 url_slides: ""
 url_video: "https://vimeo.com/338685258"
