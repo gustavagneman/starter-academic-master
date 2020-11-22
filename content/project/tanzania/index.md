@@ -1,15 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Tanzania"
-summary: ""
+title: "Scarcity and Economic Behavior in Rural Tanzania"
+summary: "In this field research project, we exploit temporal variation in scarcity induced by the Msimu harvest to study how scarcity affects economic behavior."
 authors: []
 tags: []
 categories: []
 date: 2020-11-22T17:42:25+01:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://www.econ.ku.dk/derg/current-projects/tanzania---growth-and-development-research-project-gdrp/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -28,7 +28,7 @@ image:
 #   icon: twitter
 
 url_code: ""
-url_site: "https://www.econ.ku.dk/derg/current-projects/tanzania---growth-and-development-research-project-gdrp/"
+url_pdf: "https://www.econ.ku.dk/derg/wps/04-2020.pdf"
 url_slides: ""
 url_video: ""
 
