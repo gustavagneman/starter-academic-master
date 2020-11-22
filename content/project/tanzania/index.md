@@ -28,7 +28,7 @@ image:
 #   icon: twitter
 
 url_code: ""
-url_pdf: "https://www.econ.ku.dk/derg/current-projects/tanzania---growth-and-development-research-project-gdrp/"
+url_site: "https://www.econ.ku.dk/derg/current-projects/tanzania---growth-and-development-research-project-gdrp/"
 url_slides: ""
 url_video: ""
 
