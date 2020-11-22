@@ -22,13 +22,13 @@ image:
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 # links:
-# - name: Follow
-#   url: https://twitter.com
+# - name: Project Site
+#   url: https://www.econ.ku.dk/derg/current-projects/tanzania---growth-and-development-research-project-gdrp/
 #   icon_pack: fab
 #   icon: twitter
 
 url_code: ""
-url_pdf: ""
+url_pdf: "https://www.econ.ku.dk/derg/current-projects/tanzania---growth-and-development-research-project-gdrp/"
 url_slides: ""
 url_video: ""
 
