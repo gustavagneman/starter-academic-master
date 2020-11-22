@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Greenlandic Perspectives Survey"
+title: "Greenlandic Perspectives Survey - A Nationally Representative Survey Project"
 summary: "A survey project mapping the beliefs and experiences of Greenlanders in relation to the political, economic and climatic changes that the country is undergoing."
 authors: []
 tags: []
