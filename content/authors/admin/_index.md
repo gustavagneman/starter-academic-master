@@ -81,7 +81,7 @@ user_groups:
 - Visitors
 ---
 
-Postdoctoral researcher in the PUSHPEACE project at Lund University. 
+Postdoctoral researcher at the political science faculty of Lund University. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "files/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
 

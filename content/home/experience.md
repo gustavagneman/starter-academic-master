@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   location = "Copenhagen"
   date_start = "2017-09-01"
   date_end = "2020-09-30"
-  description = """Taught Statistics and Development Economics and conducted research in the field Political Economics of Development."""
+  description = """Taught Statistics and Development Economics and conducted research in the field Political Economics of Development. Supervised by professor David Dreyer Lassen."""
 
 [[experience]]
   title = "Visiting PhD fellow"
@@ -42,6 +42,6 @@ date_format = "Jan 2006"
   location = "Chicago"
   date_start = "2018-10-01"
   date_end = "2019-06-15"
-  description = """Undertook coursework and conducted research."""
+  description = """Undertook coursework and conducted research. Supervised by professor James Robinson."""
 
 +++
