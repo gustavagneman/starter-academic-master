@@ -10,5 +10,5 @@ view: 2
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: "Research conference Knowledge for Sustainable Development"
-  image: "village_scatter.png"
+  image: "village_scatter"
 ---
