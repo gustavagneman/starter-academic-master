@@ -21,6 +21,16 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Danish Radio"
   organization_url = ""
+  title = "Unge grønlændere går forrest i kampen om selvstændighed"
+  url = "https://www.dr.dk/nyheder/indland/valgigroenland/unge-groenlaendere-gaar-forrest-i-kampen-om-selvstaendighed-debatten?fbclid=IwAR0bjB-KNGFx48Ksn-szIuda7-KA486P2x-5wH80z6AiQeegSitSKYfku60"
+  certificate_url = ""
+  date_start = "2020-04-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Danish Radio"
+  organization_url = ""
   title = "Hvorfor vil grønlænderne løsrive sig fra Danmark?"
   url = "https://www.dr.dk/nyheder/indland/video-hvorfor-vil-groenlaenderne-loesrive-sig-fra-danmark"
   certificate_url = ""
