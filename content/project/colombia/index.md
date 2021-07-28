@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "The Peace They Wanted? A Survey Project in Meta, Colombia"
-summary: "In 2021, it is 5 years since the signing of the historic peace agreement between the Colombian government and the FARC. Still, for many colombians the peace has fallen short of expectations. In this survey, we intend to map the experiences of residents of the Meta Department, a war-torn region south of Bogotá, the country capital, in order to shed light on the potenntials and pitfalls of peace and reconciliation."
+summary: "In 2021, it is 5 years since the signing of the historic peace agreement between the Colombian government and the FARC. Still, for many colombians the peace has fallen short of expectations. In this survey, we map the experiences of residents in the Meta Department, a war-torn region south of Bogotá, in order to shed light on the potentials and pitfalls of peace and reconciliation."
 authors: []
 tags: []
 categories: []
