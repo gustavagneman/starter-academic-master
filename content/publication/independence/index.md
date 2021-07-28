@@ -3,7 +3,7 @@
 
 title: "How Economic Expectations Shape Preferences for National Independence: Evidence from Greenland"
 authors: [Gustav Agneman]
-date: 2020-10-21
+date: 2021-07-25
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
