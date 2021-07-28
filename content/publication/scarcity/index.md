@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Does Scarcity Reduce Cooperation? Experimental Evidence from Rural Tanzania."
+title: "Does Scarcity Reduce Cooperation? Experimental Evidence from Rural Tanzania"
 authors: [Gustav Agneman, Paolo Falco, Exaud Joel, Onesmo Seljio]
 date: 2020-10-21
 doi: ""
