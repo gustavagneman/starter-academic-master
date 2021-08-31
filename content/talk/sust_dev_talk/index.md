@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Food scarcity inhibits economic cooperation"
+title: "AEA/ASSA Conference: Food scarcity inhibits economic cooperation"
 event: "AEA/ASSA Conference"
 event_url: "https://www.aeaweb.org/conference/"
 location:
@@ -16,8 +16,8 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2021-05-04
-date_end: 2021-05-04
+date: 2022-01-09
+date_end: 2022-01-09
 all_day: true
 
 # Schedule page publish date (NOT talk date).
