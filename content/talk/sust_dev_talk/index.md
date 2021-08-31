@@ -4,7 +4,7 @@
 title: "AEA/ASSA Conference: Food scarcity inhibits economic cooperation"
 event: "AEA/ASSA Conference"
 event_url: "https://www.aeaweb.org/conference/"
-location:
+location: "Boston"
 address:
   street:
   city:
