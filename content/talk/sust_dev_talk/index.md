@@ -2,8 +2,8 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Food scarcity inhibits economic cooperation"
-event: "Research conference Knowledge for Sustainable Development"
-event_url: "https://www.sustainability.lu.se/knowledge-sustainable-development-4-may"
+event: "AEA/ASSA Conference"
+event_url: "https://www.aeaweb.org/conference/"
 location:
 address:
   street:
