@@ -69,7 +69,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "gustavagneman@gmail.com"
+email: "gustavagneman@svet.lu.se"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
