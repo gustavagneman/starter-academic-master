@@ -32,11 +32,11 @@ featured: true
 #   Uncomment and edit lines below to show custom links.
 # links:
 # - name: WP Series
-   url: http://www.sciencedirect.com/science/article/pii/S0176268021000975
+# url: http://www.sciencedirect.com/science/article/pii/S0176268021000975
 #   icon_pack: fab
 #   icon: twitter
 
-# url_pdf: 
+url_pdf: https://reader.elsevier.com/reader/sd/pii/S0176268021000975?token=86E3C546D15B323F5C26B83E03A0A256164864BB334B893B2D79742C1F9DAFF02264C313354C09200443A720B4FF6731&originRegion=eu-west-1&originCreation=20211026151513
 url_code:
 url_dataset:
 url_poster:
