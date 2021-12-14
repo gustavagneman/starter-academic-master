@@ -85,6 +85,7 @@ Postdoctoral researcher at the political science faculty of Lund University.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "files/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
 
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "files/phd-211.pdf" "newtab" >}}PhD Thesis{{< /staticref >}}.
 
 
 
