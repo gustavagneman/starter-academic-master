@@ -85,7 +85,7 @@ Postdoctoral researcher at the political science faculty of Lund University.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "files/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
 
-{{< icon name="download" pack="fas" >}} Find my Phd thesis here: https://www.econstor.eu/esstatistics/10419/240559?year=all&month= {{< /staticref >}}.
+
 
 
 
