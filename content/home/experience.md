@@ -37,7 +37,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Visiting PhD fellow"
-  company = "University of Chicago"
+  company = "University of Chicago - Harris School of Public Policy"
   company_url = ""
   location = "Chicago"
   date_start = "2018-10-01"
