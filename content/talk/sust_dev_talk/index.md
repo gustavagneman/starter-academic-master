@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "AEA/ASSA Conference: Food scarcity inhibits economic cooperation"
+title: "AEA/ASSA Conference: The Material Basis for Cooperation: How Scarcity Reduces Trusting Behavior"
 event: "AEA/ASSA Conference"
 event_url: "https://www.aeaweb.org/conference/"
 location: "Boston"
