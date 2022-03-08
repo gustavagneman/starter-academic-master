@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "CRS: 'Mapping State Capacity: A Machine Learning Approach'"
+title: "CRS: ''"
 event: "Conflict Research Society"
 event_url: "https://conflictresearchsociety.org/call-for-papers-2021/"
 location: "Virtual"
@@ -12,7 +12,7 @@ address:
   postcode:
   country:
 summary:
-abstract: "Despite the need to measure state capacity at a sub-national level, most studies still use country-level indicators as rough approximations of the local counterpart. We estimate a measure of state capacity for five-kilometer grid cells across Sub-Saharan Africa. The measure builds on geocoded survey data on local state capacity, which we predict and extrapolate using machine learning techniques. We showcase the usefulness of measuring state capacity at the local level by employing our index as a moderating factor in the relationship between oil wealth and armed conflict and show that areas with higher levels of state capacity face lower risks of conflict outbreak due to exogenous oil wealth shocks."
+abstract: "."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
