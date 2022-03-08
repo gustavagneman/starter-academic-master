@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "CRS: ''"
+title: "CRS: 'Using ML to predict state capacity'"
 event: "Conflict Research Society"
 event_url: "https://conflictresearchsociety.org/call-for-papers-2021/"
 location: "Virtual"
