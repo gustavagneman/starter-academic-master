@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "The Material Basis for Cooperation: How Scarcity Reduces Trusting Behaviour"
+title: "The Material Basis of Cooperation: How Scarcity Reduces Trusting Behaviour"
 authors: [Gustav Agneman, Paolo Falco, Exaud Joel, Onesmo Seljio]
 date: 2022-08-25
 doi: ""
