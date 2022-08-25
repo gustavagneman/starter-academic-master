@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "CRS 2022: Presentation. Conflict Victimization and Civilian Obedience: Evidence from Colombia"
+title: "CRS 2022: Presentation: Conflict Victimization and Civilian Obedience: Evidence from Colombia"
 event: "Conflict Research Society"
 event_url: "https://conflictresearchsociety.org/call-for-papers-2022/"
 location: "Belfast"
