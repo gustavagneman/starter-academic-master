@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "CRS 2021: Presentation: Using ML to predict state capacity"
+title: "CRS 2021. Presentation: 'Using ML to predict state capacity'"
 event: "Conflict Research Society"
 event_url: "https://conflictresearchsociety.org/call-for-papers-2021/"
 location: "Virtual"
@@ -17,7 +17,7 @@ abstract: "The ability of states to exercise authority often varies considerably
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: 2021-09-08
-date_end: 2021-09-10
+date_end: 2022-09-10
 all_day: true
 
 # Schedule page publish date (NOT talk date).

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "CRS 2022: Presentation: Conflict Victimization and Civilian Obedience: Evidence from Colombia"
+title: "CRS 2022. Presentation: 'Conflict Victimization and Civilian Obedience: Evidence from Colombia'"
 event: "Conflict Research Society"
 event_url: "https://conflictresearchsociety.org/call-for-papers-2022/"
 location: "Belfast"
@@ -17,7 +17,7 @@ abstract: "In this study, I investigate how conflict victimization influences ci
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: 2022-09-07
-date_end: 2021-09-09
+date_end: 2022-09-09
 all_day: true
 
 # Schedule page publish date (NOT talk date).

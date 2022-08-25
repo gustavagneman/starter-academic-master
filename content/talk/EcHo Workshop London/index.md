@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "EcHo 2022. Presentation: Mapping Local State Capacity"
+title: "EcHo 2022. Presentation: 'Mapping Local State Capacity'"
 event: "Workshop: The Political Economy of Conflict"
 event_url: "https://www.qmul.ac.uk/sef/events/conferences/items/call-for-papers--workshop-on-conflict---september-2022.html"
 location: "Queen Mary, London"
