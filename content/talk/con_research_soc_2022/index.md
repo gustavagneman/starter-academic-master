@@ -12,7 +12,7 @@ address:
   postcode:
   country:
 summary:
-abstract: "In this study, I investigate how conflict victimization influences civilians' likelihood of (dis)-obeying armed actors, a behavioral tendency which I elicit through a lab-in-the field experiment. Violence could foster either obedience or defiance depending on whether a "fear of punishment" or a "taste for retribution" dominate. In a sample with residents in Meta, a conflict-ridden department of Colombia, I find that conflict victimization increases disobedience. Participants who were victimized during the conflict are significantly more likely than non-victimized civilians to disobey the main insurgent group, but no more likely to disobey the Colombian Armed Forces. This differential effect is attributed to more frequent civilian victimization by the insurgents. I support a causal interpretation through an Instrumental Variable approach which leverages the distance to a historic front line as an instrument for victimization. In sum, the findings show that violent targeting of civilians can inspire resistance rather than submission."
+abstract: "."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
