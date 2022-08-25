@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "CRS 2021: Presentation: Using ML to predict state capacity"
+title: "CRS 2021. Presentation: Using ML to predict state capacity"
 event: "Conflict Research Society"
 event_url: "https://conflictresearchsociety.org/call-for-papers-2021/"
 location: "Virtual"
@@ -12,7 +12,7 @@ address:
   postcode:
   country:
 summary:
-abstract: ""
+abstract: "."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
