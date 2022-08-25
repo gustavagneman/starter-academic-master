@@ -3,11 +3,11 @@
 
 title: "Market Participation and Moral Decision-making: Experimental Evidence from Greenland"
 authors: [Gustav Agneman and Esther Bianco-Chevrot]
-date: 2022-08-25
+date: 2022-08-24
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2022-08-24T18:25:05+01:00
+publishDate: 2022-08-23T18:25:05+01:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
