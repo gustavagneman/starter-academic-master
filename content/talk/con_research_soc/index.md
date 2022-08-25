@@ -12,7 +12,7 @@ address:
   postcode:
   country:
 summary:
-abstract: ""
+abstract: "The ability of states to exercise authority often varies considerably within their borders. Yet, the empirical literature on state capacity has typically relied on country-level indicators of state capacity. In this paper, we develop a measure of local state capacity for all five-kilometer grid cells across Sub-Saharan Africa. The measure builds on geocoded survey data on local state presence, which we predict and extrapolate in a machine learning model using readily available data on the costs and benefits of capacity building across space. We showcase the usefulness of measuring state capacity at a local level by employing the index as a moderating factor in the relationship between oil wealth and violent conflict and show that areas with higher levels of state capacity face lower risks of conflict outbreak due to exogenous oil wealth shocks."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
