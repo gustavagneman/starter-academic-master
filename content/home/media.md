@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Marginal Revolution Blog"
+  organization_url = "The Invisible Hand Increases Trust, Cooperation, and Universal Moral Action"
+  title = ""
+  url = "https://marginalrevolution.com/marginalrevolution/2022/10/the-invisible-hand-increases-trust-cooperation-and-universal-moral-action.html"
+  certificate_url = ""
+  date_start = "2022-10-08"
+  date_end = ""
+  description = ""
+
+[[item]]
   organization = "Danish Radio"
   organization_url = ""
   title = "Unge grønlændere går forrest i kampen om selvstændighed"
