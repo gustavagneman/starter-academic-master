@@ -20,8 +20,8 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Marginal Revolution Blog"
-  organization_url = "The Invisible Hand Increases Trust, Cooperation, and Universal Moral Action"
-  title = ""
+  organization_url = ""
+  title = "The Invisible Hand Increases Trust, Cooperation, and Universal Moral Action"
   url = "https://marginalrevolution.com/marginalrevolution/2022/10/the-invisible-hand-increases-trust-cooperation-and-universal-moral-action.html"
   certificate_url = ""
   date_start = "2022-10-08"
