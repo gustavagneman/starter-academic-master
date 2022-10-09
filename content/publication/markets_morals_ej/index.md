@@ -3,8 +3,8 @@
 
 title: "Market Participation and Moral Decision-making: Experimental Evidence from Greenland"
 authors: [Gustav Agneman and Esther Bianco-Chevrot]
-date: 2022-08-24
-doi: ""
+date: 2022-09-23
+doi: "https://doi.org/10.1093/ej/ueac069"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2022-08-23T18:25:05+01:00
@@ -16,7 +16,7 @@ publishDate: 2022-08-23T18:25:05+01:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Forthcoming in the Economic Journal"
+publication: "Published in The Economic Journal"
 publication_short: ""
 
 abstract: "The relationship between market participation and moral values has been an object of a long-lasting debate in economics. Yet, to date little credible empirical evidence exists. In this study, we examine the relationship between market participation and moral decision-making by conducting rule-breaking experiments in 13 villages across Greenland (N=543), where stark contrasts in market participation within villages allow us to hold village-level factors constant. First, we document a robust positive association between market participation and moral behavior towards anonymous others. Second, we find that market-integrated participants display universalism in moral decision-making, whereas subsistence economy participants make more honest decisions toward co-villagers. A battery of robustness tests confirm that the behavioral differences between market and subsistence economy participants are not driven by variation in socioeconomic characteristics, childhood background, cultural identities, kinship structure, global connectedness, or exposure to religious and political institutions."
@@ -36,7 +36,7 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: 
+url_pdf: ""
 url_code:
 url_dataset:
 url_poster:
