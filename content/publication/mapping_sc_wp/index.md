@@ -4,7 +4,7 @@
 title: "Mapping Local State Capacity"
 authors: [Gustav Agneman, Kasper Brandt, Christoffer Capellen, David Sjöberg]
 date: 2022-08-31
-doi: ""
+doi: "https://dx.doi.org/10.2139/ssrn.4184751"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2022-08-24T18:25:05+01:00
