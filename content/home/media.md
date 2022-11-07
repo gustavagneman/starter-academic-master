@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   title = "Menneskets gode handel"
   url = "https://www.weekendavisen.dk/2022-44/ideer/menneskets-gode-handel?utm_source=newsletter&utm_medium=email&utm_content=red_nb07112022&utm_campaign=dagens_wa"
   certificate_url = ""
-  date_start = "2022-11-07"
+  date_start = "2022-11-06"
   date_end = ""
   description = "Quote: Her er studiet fra Grønland særlig interessant, fordi det sammenligner mennesker, som
 lever side om side i de samme små samfund – folk, der har gået i de samme skoler, taler
