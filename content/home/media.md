@@ -26,10 +26,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2022-11-06"
   date_end = ""
-  description = "Quote: Her er studiet fra Grønland særlig interessant, fordi det sammenligner mennesker, som
-lever side om side i de samme små samfund – folk, der har gået i de samme skoler, taler
-det samme sprog, er vokset op med de samme institutioner. Her er man altså tæt på at
-bevise en direkte forbindelse mellem markedsdeltagelse og moral."
+  description = "Quote: Her er studiet fra Grønland særlig interessant, fordi det sammenligner mennesker, som lever side om side i de samme små samfund – folk, der har gået i de samme skoler, taler det samme sprog, er vokset op med de samme institutioner. Her er man altså tæt på at bevise en direkte forbindelse mellem markedsdeltagelse og moral."
 
 [[item]]
   organization = "Marginal Revolution Blog"
