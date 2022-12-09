@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Peace Perspectives Belfast"
-summary: "We collect data on social norms for reconciliation in areas close to peace walls. The data colelction is scheduled to January, 2023."
+summary: "We collect data on social norms for reconciliation in areas close to peace walls. The data collection is scheduled to January, 2023."
 authors: []
 tags: []
 categories: []
