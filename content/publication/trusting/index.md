@@ -4,7 +4,7 @@
 title: "The Material Basis of Cooperation: How Scarcity Reduces Trusting Behaviour"
 authors: [Gustav Agneman, Paolo Falco, Exaud Joel, Onesmo Seljio]
 date: 2022-08-25
-doi: ""
+doi: "https://doi.org/10.1093/ej/ueac087"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2022-08-24T18:25:05+01:00
