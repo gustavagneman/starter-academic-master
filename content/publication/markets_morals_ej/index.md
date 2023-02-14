@@ -17,7 +17,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Published in The Economic Journal"
-publication_short: ""
+publication_short: "Altmetric Score: 161"
 
 abstract: "The relationship between market participation and moral values has been an object of a long-lasting debate in economics. Yet, to date little credible empirical evidence exists. In this study, we examine the relationship between market participation and moral decision-making by conducting rule-breaking experiments in 13 villages across Greenland (N=543), where stark contrasts in market participation within villages allow us to hold village-level factors constant. First, we document a robust positive association between market participation and moral behavior towards anonymous others. Second, we find that market-integrated participants display universalism in moral decision-making, whereas subsistence economy participants make more honest decisions toward co-villagers. A battery of robustness tests confirm that the behavioral differences between market and subsistence economy participants are not driven by variation in socioeconomic characteristics, childhood background, cultural identities, kinship structure, global connectedness, or exposure to religious and political institutions."
 

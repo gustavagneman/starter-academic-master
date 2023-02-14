@@ -17,7 +17,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Forthcoming in the Economic Journal"
-publication_short: ""
+publication_short: "Altmetric Score: 40"
 
 abstract: "Trusting behaviour is a cornerstone of cooperation and, hence, economic performance, not least in poorer communities where economic transactions often rely on informal agreements. But trusting behaviour is potentially costly since the counterpart may decide to defect. In this study, we investigate whether food scarcity influences the level of trusting behaviour in rural Tanzania by leveraging quasi-experimental variation in food supply induced by the harvest. Through a lab-in-the-field experiment, we document that farmers display lower levels of trusting behaviour during the lean season compared to the abundant season and show that the difference is explained by variation in food scarcity."
 
