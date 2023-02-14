@@ -22,7 +22,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "VoxDev"
   organization_url = ""
-  title = "Menneskets gode handel"
+  title = "The effects of food scarcity on trusting behaviour: Evidence from Tanzania"
   url = "https://voxdev.org/topic/institutions-political-economy/effects-food-scarcity-trusting-behaviour-evidence-tanzania"
   certificate_url = ""
   date_start = "2023-01-19"
