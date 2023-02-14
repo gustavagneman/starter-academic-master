@@ -18,6 +18,17 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+
+[[item]]
+  organization = "VoxDev"
+  organization_url = ""
+  title = "Menneskets gode handel"
+  url = "https://voxdev.org/topic/institutions-political-economy/effects-food-scarcity-trusting-behaviour-evidence-tanzania"
+  certificate_url = ""
+  date_start = "2023-01-19"
+  date_end = ""
+  description = "Quote: As the world grapples with a global food crisis, the adverse effects of hunger on behaviour deserve attention. The negative effects of food scarcity on trusting behaviour indicate that a period of hunger, even if temporary, may have lasting effects on economic performance by disrupting networks of cooperation. This adds yet another reason to devote more resources towards alleviating hunger."
+
 [[item]]
   organization = "Weekendavisen"
   organization_url = ""
@@ -36,7 +47,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2022-10-08"
   date_end = ""
-  description = "Quote: Markets and trade increase trust, cooperation and universal moral action–it is hard to think of a more important finding for the world today."
+  description = "Quote: Markets and trade increase trust, cooperation and universal moral action – it is hard to think of a more important finding for the world today."
 
 [[item]]
   organization = "Danish Radio"
