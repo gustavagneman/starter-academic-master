@@ -20,6 +20,16 @@ date_format = "Jan 2006"
 
 
 [[item]]
+  organization = "Quality of Governance Institute"
+  organization_url = ""
+  title = "The Uneven Reach of the State. A Novel Approach to Mapping Local State Presence: Winner of the QoG Best Paper Award 2022"
+  url = "https://voxdev.org/topic/institutions-political-economy/effects-food-scarcity-trusting-behaviour-evidence-tanzania"
+  certificate_url = ""
+  date_start = "2023-02-10"
+  date_end = ""
+  description = "Quote: The paper is theoretically rich and synthesizes survey data with satellite imaging, and uses machine learning to develop measures of predicted state presence in Sub-Saharan Africa. The authors then validate the measure through vaccination rates and census accuracy, and go on to show that state presence predicts the likelihood that oil extraction leads to violent local conflicts. The paper provides a clear and comprehensive description of the method, which will allow replication to create similar data for other geographic regions. In sum, the paper greatly improves on existing approaches to measuring state reach, and thereby paves the way for more rigorous investigations of the sources of state density as well as its implications for a range of societal outcomes."
+
+[[item]]
   organization = "VoxDev"
   organization_url = ""
   title = "The effects of food scarcity on trusting behaviour: Evidence from Tanzania"
