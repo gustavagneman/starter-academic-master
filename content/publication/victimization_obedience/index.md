@@ -4,7 +4,7 @@
 title: "Conflict Victimization and Civilian Obedience: Evidence from Colombia"
 authors: [Gustav Agneman]
 date: 2022-12-31
-doi: "https://hicn.org/working-paper/379/"
+# doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2022-12-31T18:25:05+01:00
@@ -36,7 +36,7 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: ""
+url_pdf: "https://hicn.org/working-paper/379/"
 url_code:
 url_dataset:
 url_poster:

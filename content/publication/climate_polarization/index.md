@@ -4,7 +4,7 @@
 title: ""
 authors: [Gustav Agneman, Sofia Henriks, Hanna Bäck, Emma Renström]
 date: 2023-06-31
-doi: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4500685"
+doi: "https://dx.doi.org/10.2139/ssrn.4500685"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2023-06-30T18:25:05+01:00
