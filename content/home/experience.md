@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Uppsala"
   date_start = "2023-04-01"
-  date_end = "2023-10-31"
+  date_end = ""
   description = """Survey research on the impact of housing wealth disparities on social preferences"""
 
 [[experience]]
