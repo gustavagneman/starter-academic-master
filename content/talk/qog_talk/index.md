@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Quality of Governance. Presentation: 'The Uneven Reach of the State: A Novel Approach to Mapping Local State Presence'"
+title: "Quality of Governance Institute. Presentation: 'The Uneven Reach of the State: A Novel Approach to Mapping Local State Presence'"
 event: "Invited Talk"
 event_url: "https://www.gu.se/evenemang/qog-lunchseminarium-med-gustav-agneman"
 location: "Gothenburg"
