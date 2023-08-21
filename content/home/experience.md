@@ -17,6 +17,16 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Researcher"
+  company = "Uppsala University"
+  company_url = ""
+  location = "Uppsala"
+  date_start = "2023-04-01"
+  date_end = "2023-10-31"
+  description = """Survey research on the impact of housing wealth disparities on social preferences"""
+
 [[experience]]
   title = "Postdoctoral researcher"
   company = "Lund University"
