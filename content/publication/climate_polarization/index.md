@@ -1,13 +1,13 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Conflict Victimization and Civilian Obedience: Evidence from Colombia"
-authors: [Gustav Agneman]
-date: 2022-12-31
-doi: "https://hicn.org/working-paper/379/"
+title: ""
+authors: [Gustav Agneman, Sofia Henriks, Hanna Bäck, Emma Renström]
+date: 2023-06-31
+doi: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4500685"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2022-12-31T18:25:05+01:00
+publishDate: 2023-06-30T18:25:05+01:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,10 +16,10 @@ publishDate: 2022-12-31T18:25:05+01:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Working Paper in Households in Conflict Network (HiCN) WP series"
+publication: "Working Paper"
 publication_short: ""
 
-abstract: "In this study, I investigate how conflict victimization influences civilians’ likelihood of (dis)obeying armed actors, a behavioral tendency which I elicit through a lab-in-the field experiment. Violence could foster either obedience or defiance depending on whether a “fear of punishment” or a “taste for retribution” dominate. In a sample with residents in Meta, a conflict-ridden department of Colombia, I find that conflict victimization increases disobedience. Participants who were victimized during the conflict are significantly more likely than non-victimized civilians to disobey the main insurgent group, but no more likely to disobey the Colombian Armed Forces. This differential effect is attributed to more frequent civilian victimization by the insurgents. I support a causal interpretation through an Instrumental Variable approach which leverages the distance to a historic front line as an instrument for victimization. In sum, the findings show that violent targeting of civilians can inspire resistance rather than submission."
+abstract: "This study explores how rising costs of climate mitigation policies shape climate policy support differentially for the ideological left and right. To this end, we randomly manipulate the consumption costs associated with four different climate mitigation policies and study how different cost scenarios influence policy support among a sample of 1,597 Swedish adults. We find that more costly climate policies induce greater climate policy polarization, since right-leaning participants both display lower baseline support and more cost-sensitivity in their climate policy support. In addition, we demonstrate that when policy costs are (experimentally) higher, right-leaning participants express less concern about how consumption affects the climate. This pattern can be understood through the lens of motivated disbelief, which holds that people may adjust their beliefs in order to support their preferred actions. The present analysis provides novel insights as to when and how material conditions influence climate policy preferences."
 
 # Summary. An optional shortened abstract.
 summary: ""
