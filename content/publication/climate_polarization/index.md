@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: ""
+title: "On the Nexus between Material and Ideological Determinants of Climate Policy Support"
 authors: [Gustav Agneman, Sofia Henriks, Hanna Bäck, Emma Renström]
 date: 2023-06-31
 doi: "https://dx.doi.org/10.2139/ssrn.4500685"
