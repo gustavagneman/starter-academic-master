@@ -19,6 +19,15 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Assistant Professor"
+  company = "Norwegian University of Science and Technology (NTNU)"
+  company_url = ""
+  location = "Trondheim"
+  date_start = "2023-12-01"
+  date_end = ""
+  description = """Assistant Professor of Economics with a profile in Political Economics and Development Economics"""
+
+[[experience]]
   title = "Researcher"
   company = "Uppsala University"
   company_url = ""
@@ -33,7 +42,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Lund"
   date_start = "2021-01-01"
-  date_end = ""
+  date_end = "2021-03-31"
   description = """Teaching at the Political Science Faculty. Independent research and part of the PUSHPEACE project."""
 
 [[experience]]
