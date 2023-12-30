@@ -69,7 +69,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "gustavagneman@svet.lu.se"
+email: "gustav.agneman@ntnu.no"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -81,7 +81,7 @@ user_groups:
 - Visitors
 ---
 
-Postdoctoral researcher at the political science faculty of Lund University. 
+Associate Professor of Economics at the Norwegian University of Science and Technology (Trondheim). Interested in how preferences, norms, and culture respond to societal changes. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "files/cv.pdf" "newtab" >}}CV{{< /staticref >}}
 
