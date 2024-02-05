@@ -29,6 +29,17 @@ date_format = "Jan 2006"
   date_end = ""
   description = "Quote: The questions took Chevrot-Bianco and Agneman to Greenland. A kind of random experiment has been running there for almost a century and they hoped it would provide answers. Because of the efforts of past governments, a modern market economy is flourishing even in the remote areas of the giant island. Self-sufficient hunters and fishermen live alongside lawyers and sales people. As a result, there are large differences in the meaning of the market for individuals, even though political and cultural conditions are somewhat similar."
 
+
+[[item]]
+  organization = "LSE Business Review"
+  organization_url = ""
+  title = "How food scarcity reduces trusting behaviour"
+  url = "https://blogs.lse.ac.uk/businessreview/2023/07/26/how-food-scarcity-reduces-trusting-behaviour/"
+  certificate_url = ""
+  date_start = "2023-07-23"
+  date_end = ""
+  description = "Quote: The detrimental consequences of food shortages on trusting behaviour suggest that a temporary hunger spell could have long-term effects on economic performance by upsetting cooperative networks. Consequently, hunger relief may not only serve to alleviate suffering today but also promote a more prosperous society tomorrow."
+
 [[item]]
   organization = "Quality of Governance Institute"
   organization_url = ""
