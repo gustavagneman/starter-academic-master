@@ -20,6 +20,16 @@ date_format = "Jan 2006"
 
 
 [[item]]
+  organization = "Spektrum"
+  organization_url = ""
+  title = "Change through trade"
+  url = "https://www.spektrum.de/news/prosozialitaet-markt-und-moral/2191710"
+  certificate_url = ""
+  date_start = "2024-01-25"
+  date_end = ""
+  description = "Quote: The questions took Chevrot-Bianco and Agneman to Greenland. A kind of random experiment has been running there for almost a century and they hoped it would provide answers. Because of the efforts of past governments, a modern market economy is flourishing even in the remote areas of the giant island. Self-sufficient hunters and fishermen live alongside lawyers and sales people. As a result, there are large differences in the meaning of the market for individuals, even though political and cultural conditions are somewhat similar."
+
+[[item]]
   organization = "Quality of Governance Institute"
   organization_url = ""
   title = "The Uneven Reach of the State. A Novel Approach to Mapping Local State Presence: Winner of the QoG Best Paper Award 2022"
