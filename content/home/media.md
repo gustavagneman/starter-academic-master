@@ -18,6 +18,25 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+[[item]]
+  organization = "Royal Economic Society"
+  organization_url = ""
+  title = "2023 Austin Robinson Memorial Prize"
+  url = "https://res.org.uk/2023-austin-robinson-memorial-prize/"
+  certificate_url = ""
+  date_start = "2024-03-19"
+  date_end = ""
+  description = "Quote: The article makes a great leap in understanding the question of how markets and moral sentiments are intertwined."
+
+  [[item]]
+  organization = "The Conversation"
+  organization_url = ""
+  title = "Women favour climate actions that benefit future generations more than men"
+  url = "https://theconversation.com/women-favour-climate-actions-that-benefit-future-generations-more-than-men-new-study-224455"
+  certificate_url = ""
+  date_start = "2024-03-13"
+  date_end = ""
+  description = "Quote: The decisions we make now inevitably shape the prospects for generations to come. So tackling a long-term problem like climate change raises an intergenerational moral dilemma: should we invest in solutions that might not personally benefit ourselves but will help future generations reach net zero?"
 
 [[item]]
   organization = "Spektrum"
