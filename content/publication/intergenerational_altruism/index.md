@@ -4,7 +4,7 @@
 title: "Intergenerational Altruism and Climate Policy Preferences"
 authors: [Gustav Agneman, Sofia Henriks, Hanna Bäck, Emma Renström]
 date: 2024-03-13
-doi: ""
+doi: "https://academic.oup.com/pnasnexus/advance-article/doi/10.1093/pnasnexus/pgae105/7627894"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2024-03-13T18:25:05+01:00

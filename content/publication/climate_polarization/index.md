@@ -3,20 +3,20 @@
 
 title: "On the Nexus between Material and Ideological Determinants of Climate Policy Support"
 authors: [Gustav Agneman, Sofia Henriks, Hanna Bäck, Emma Renström]
-date: 2023-06-31
-doi: "https://dx.doi.org/10.2139/ssrn.4500685"
+date: 2024-02-01
+doi: "https://www.sciencedirect.com/science/article/pii/S0921800924000168"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2023-06-30T18:25:05+01:00
+publishDate: 2024-02-01T18:25:05+01:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Working Paper"
+publication: "Ecological Economics"
 publication_short: ""
 
 abstract: "This study explores how rising costs of climate mitigation policies shape climate policy support differentially for the ideological left and right. To this end, we randomly manipulate the consumption costs associated with four different climate mitigation policies and study how different cost scenarios influence policy support among a sample of 1,597 Swedish adults. We find that more costly climate policies induce greater climate policy polarization, since right-leaning participants both display lower baseline support and more cost-sensitivity in their climate policy support. In addition, we demonstrate that when policy costs are (experimentally) higher, right-leaning participants express less concern about how consumption affects the climate. This pattern can be understood through the lens of motivated disbelief, which holds that people may adjust their beliefs in order to support their preferred actions. The present analysis provides novel insights as to when and how material conditions influence climate policy preferences."
