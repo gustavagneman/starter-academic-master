@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Researcher
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Lund University
-  url: ""
+- name: Norwegian University of Sciece and Technology
+  url: "https://www.ntnu.no/ansatte/gustavag"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include political decision making, armed conflict and spatial econometrics
